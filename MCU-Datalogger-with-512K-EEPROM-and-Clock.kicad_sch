@@ -1,0 +1,21 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "776834cb-092e-4fc8-9e79-814f53597284")
+	(paper "A4")
+	(title_block
+		(title "MCU Datalogger with 512K EEPROM and Clock")
+		(date "2025-07-04")
+		(rev "1")
+		(company "University of Notre Dame | Udemy")
+		(comment 1 "Made by Andres Perez")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
