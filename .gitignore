@@ -2,5 +2,7 @@ fp-info-cache
 MCU-Datalogger-with-512K-EEPROM-and-Clock-backups/*
 #auto_saved_files#
 sym-lib-table
+fp-info-cache
+fp-lib-table
 ~MCU-Datalogger-with-512K-EEPROM-and-Clock.kicad_pcb.lck
 ~MCU-Datalogger-with-512K-EEPROM-and-Clock.kicad_sch.lck
