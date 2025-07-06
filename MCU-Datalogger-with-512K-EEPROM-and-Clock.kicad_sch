@@ -5,11 +5,11 @@
 	(uuid "776834cb-092e-4fc8-9e79-814f53597284")
 	(paper "A4")
 	(title_block
-		(title "MCU Datalogger with 512K EEPROM and Clock")
+		(title "${project_name}")
 		(date "2025-07-04")
 		(rev "1")
-		(company "University of Notre Dame | Udemy")
-		(comment 1 "Made by Andres Perez")
+		(company "${company_name}")
+		(comment 1 "${comment_1}")
 	)
 	(lib_symbols
 		(symbol "ATMEGA328P-AU:ATMEGA328P-AU"

@@ -5,11 +5,11 @@
 	(uuid "fee90fd9-af3c-4565-a216-9c5ed072dcf5")
 	(paper "A4")
 	(title_block
-		(title "Connectors")
+		(title "Connectors : ${project_name}")
 		(date "2025-07-05")
 		(rev "1.0")
-		(company "University of Notre Dame | Udemy")
-		(comment 1 "Made by Andres Perez")
+		(company "${company_name}")
+		(comment 1 "${comment_1}")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
